@@ -9,3 +9,8 @@ var name = 'Darnell'
 function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`
 }
+
+var holiday ='Hallowenn'
+function happyHolidayTo(holiday, name){
+  return `Happy ${holiday}, ${name}!`
+}
